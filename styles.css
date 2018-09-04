@@ -11,6 +11,12 @@
   font-size: 140px;
 }
 
+.title-h2 {
+    color: #e6f2ff ;
+  font-family: 'Lobster', cursive;
+  font-size: 140px;
+}
+
 .about-bg {
   padding: 100px;
   background-color: #ffffe6;
