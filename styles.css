@@ -1,6 +1,6 @@
 .title-bg {
   padding: 0;
-  width: 100%;
+  width: 1140
   background: url("indet pagina.jpeg");
   background-repeat: no-repeat;
   background-size: auto;
@@ -9,13 +9,13 @@
 .title-h1 {
   color: Indigo ;
   font-family: 'Lobster', cursive;
-  font-size: 100px;
+  font-size: 40px;
 }
 
 .title-h2 {
     color: MidnightBlue ;
   font-family: 'Lobster', cursive;
-  font-size: 100px;
+  font-size: 50px;
 }
 
 .about-bg {
