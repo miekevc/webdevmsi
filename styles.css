@@ -2,8 +2,8 @@
   padding: 400px;
   background: url("Creating yourself 2.jpg");
   background-size: 50%
+  background-position: center;
   background-repeat: no-repeat;
-  background-position: center
 }
 
 .title-h1 {
