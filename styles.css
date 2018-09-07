@@ -8,15 +8,15 @@
 
 
 .title-h1 {
-  color: black ;
+  color: dark grey ;
   font-family: 'Pacifico';
-  font-size: 40px;
+  font-size: 70px;
 }
 
 .title-h2 {
-    color: black ;
+    color: dark grey ;
   font-family: 'Pacifico', cursive;
-  font-size: 50px;
+  font-size: 70px;
 }
 
 .about-bg {
