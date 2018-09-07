@@ -1,6 +1,7 @@
 .title-bg {
   padding: 200px;
   background: url("Creating yourself 3.jpg");
+  background-style="border:5px yellow"
   background-position: center center;
   background-repeat: no-repeat;
   background-size: auto;
