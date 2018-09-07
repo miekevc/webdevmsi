@@ -20,6 +20,12 @@
   font-size: 90px;
 }
 
+.title-h3 {
+  color: black;
+  font-family: 'Kaushan Script', bold;
+  font-size: 40px;
+}
+
 .about-bg {
   padding: 100px;
   background-color: #ffffe6;
